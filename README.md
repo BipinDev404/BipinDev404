@@ -35,7 +35,6 @@ Tools: Git, GitHub, VS Code, Kali Linux, Photoshop
 
 Other: Android Development, Cybersecurity
 
-📊 GitHub Stats
 
 ## 📊 GitHub Stats  
 
