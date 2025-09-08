@@ -71,12 +71,7 @@ I am bipin yadav from bihar, india. and i study in BCA from s. sinha college aur
 [![X (Twitter)](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=x&logoColor=1DA1F2)](https://twitter.com/BipinYadav15123)  
  
 
-✨ “Keep building, keep breaking, keep learning.”
+![Quote](https://img.shields.io/badge/💡%20Quote-"Karam%20karte%20rho,%20phal%20ka%20chinta%20mat%20karo"-white?style=for-the-badge)
 
-![Quote](https://img.shields.io/badge/💡%20Quote-"Keep%20building,%20keep%20breaking,%20keep%20learning."-white?style=for-the-badge)
 
-![Quote](https://img.shields.io/badge/💬%20Quote-"Talk%20is%20cheap.%20Show%20me%20the%20code."-000000?style=for-the-badge)
-![Quote](https://img.shields.io/badge/⚡%20Quote-"First,%20solve%20the%20problem.%20Then,%20write%20the%20code."-brightgreen?style=plastic)
-![Quote](https://img.shields.io/badge/🚀%20"Code%20never%20lies,%20comments%20sometimes%20do."-blue?style=for-the-badge)
-
-![Quote](https://img.shields.io/badge/✨%20Quote-"Stay%20hungry,%20stay%20foolish."-ff69b4?style=for-the-badge)
+ 
