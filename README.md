@@ -1,4 +1,4 @@
-# 🟠 Hi, I'm Bipin Yadav
+# *Namaste,* I'm Bipin Yadav
 
 Welcome to my personal repository!
 I'm passionate about coding, programming, and hacking, always learning and building exciting projects.
@@ -6,35 +6,54 @@ I'm passionate about coding, programming, and hacking, always learning and build
 ## 👨‍💻 About Me
 I am bipin yadav from bihar, india. and i study in BCA from s. sinha college aurangabad, bihar. and i love to do some crazy stuff on my laptop keyboard.
 
-### 🔭 Currently working on: YadavMinds
+#### 🔭 Currently working on: YadavMinds
 
-### 🌱 Learning: C, Web Development, Cybersecurity, Android Development
+#### 🌱 Learning: C, Web Development, Cybersecurity, Android Development
 
-### 💡 Interested in: Building apps, operating systems, and AI
+#### 💡 Interested in: Building apps, operating systems, and AI
 
-### 🎯 Goal: To become an expert in software development & ethical hacking
+#### 🎯 Goal: To become an expert in software development & ethical hacking
 
 ## 📂 Featured Projects
 
-🔹 Beepcinema
- – Where you explore movies and series and also do same crazy stuff. shuuutt upp
-
-🔹 YuvaUpadate
- – this mainly build for student purpose only where you find update related like results, admission, jobs, admit card like many stuffs
-
-🔹 Baula
- – this little game like chrome dinasaur like but here you play with ball with physics is a intersting game.
+ 
+![BeepCinema](https://img.shields.io/badge/🎬%20BeepCinema-Where%20you%20explore%20movies%20and%20series%20and%20do%20crazy%20stuff.%20Shuuutt%20upp-white?style=for-the-badge)
+![YuvaUpdate](https://img.shields.io/badge/📚%20YuvaUpdate-Built%20for%20students%20to%20find%20updates%20like%20results,%20admissions,%20jobs,%20admit%20cards-white?style=for-the-badge)
+![Baula](https://img.shields.io/badge/⚽%20Baula-A%20fun%20ball%20game%20like%20Chrome%20Dinosaur%20but%20with%20physics-white?style=for-the-badge)
 
 ## 🛠️ Tech Stack
 
-Languages: C, C++, Python, JavaScript, Kotlin
+### Languages 
+![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=00599C) 
+![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=00599C) 
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB) 
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 
-Web: HTML, CSS, React, Node.js, Express, MongoDB
+ 
 
-Tools: Git, GitHub, VS Code, Kali Linux, Photoshop 
+### Web 
+![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26) 
+![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6) 
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=339933) 
+![Express.js](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=000000) 
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-Other: Android Development, Cybersecurity
 
+
+### Tools  
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032) 
+![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=000) 
+![VS Code](https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-white?style=for-the-badge&logo=kalilinux&logoColor=557C94) 
+![Photoshop](https://img.shields.io/badge/Photoshop-white?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+
+
+### Other 
+![Android](https://img.shields.io/badge/Android%20Dev-white?style=for-the-badge&logo=android&logoColor=3DDC84) 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-white?style=for-the-badge&logo=protonvpn&logoColor=00855F)
+ 
 
 ## 📊 GitHub Stats  
 
@@ -45,8 +64,6 @@ Other: Android Development, Cybersecurity
 ![GitHub Streak](https://streak-stats.demolab.com?user=BipinDev404&theme=radical)
 
 
-
- 
 ## 🌐 Connect with Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=000)](https://github.com/BipinDev404)  
@@ -56,3 +73,11 @@ Other: Android Development, Cybersecurity
  
 
 ✨ “Keep building, keep breaking, keep learning.”
+
+![Quote](https://img.shields.io/badge/💡%20Quote-"Keep%20building,%20keep%20breaking,%20keep%20learning."-white?style=for-the-badge)
+
+![Quote](https://img.shields.io/badge/💬%20Quote-"Talk%20is%20cheap.%20Show%20me%20the%20code."-000000?style=for-the-badge)
+![Quote](https://img.shields.io/badge/⚡%20Quote-"First,%20solve%20the%20problem.%20Then,%20write%20the%20code."-brightgreen?style=plastic)
+![Quote](https://img.shields.io/badge/🚀%20"Code%20never%20lies,%20comments%20sometimes%20do."-blue?style=for-the-badge)
+
+![Quote](https://img.shields.io/badge/✨%20Quote-"Stay%20hungry,%20stay%20foolish."-ff69b4?style=for-the-badge)
