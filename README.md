@@ -56,11 +56,11 @@ I am bipin yadav from bihar, india. and i study in BCA from s. sinha college aur
 
 ## 📊 GitHub Stats  
 
-![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BipinDev404&show_icons=true&theme=radical)  
+![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BipinDev404&show_icons=true&theme=white)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BipinDev404&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BipinDev404&layout=compact&theme=white)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BipinDev404&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=BipinDev404&theme=white)
 
 
 ## 🌐 Connect with Me  
