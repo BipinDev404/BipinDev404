@@ -74,5 +74,5 @@ I am bipin yadav from bihar, india. and i study in BCA from s. sinha college aur
 ![Quote](https://img.shields.io/badge/💡%20Quote-"Karam%20karte%20rho,%20phal%20ka%20chinta%20mat%20karo"-white?style=for-the-badge)
 
 
-just doing our hajiri
+just doing 
  
