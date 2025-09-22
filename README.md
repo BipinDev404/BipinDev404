@@ -1,4 +1,4 @@
-# *Namaste,* I'm Bipin Yadav
+# *Namaste,* I'm Bipin Yadav   
 
 Welcome to my personal repository!        
 I'm passionate about coding, programming, and hacking, always learning and building exciting projects.
