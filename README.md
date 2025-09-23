@@ -11,7 +11,7 @@ I am bipin yadav from bihar, india. and i study in BCA from s. sinha college aur
 ![Interested In](https://img.shields.io/badge/💡%20Interested_In-Building_Apps%20|%20OS%20|%20AI-white?style=for-the-badge)  
 ![Goal](https://img.shields.io/badge/🎯%20Goal-Expert_in_Software_Dev_&_Ethical_Hacking-white?style=for-the-badge)
 
-      
+        
 
 ## 📂 Featured Projects
    
