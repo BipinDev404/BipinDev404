@@ -5,7 +5,7 @@ I'm passionate about coding, programming, and hacking, always learning and build
   
 ## 👨‍💻 About Me
 I am bipin yadav from bihar, india. and i study in BCA from s. sinha college aurangabad, bihar. and i love to do some crazy stuff on my laptop keyboard.
-
+   
 ![Currently Working](https://img.shields.io/badge/🔭%20Currently_Working_on-YadavMinds-white?style=for-the-badge)  
 ![Learning](https://img.shields.io/badge/🌱%20Learning-C%20|%20Web%20Dev%20|%20Cybersecurity%20|%20Android%20Dev-white?style=for-the-badge)  
 ![Interested In](https://img.shields.io/badge/💡%20Interested_In-Building_Apps%20|%20OS%20|%20AI-white?style=for-the-badge)  
