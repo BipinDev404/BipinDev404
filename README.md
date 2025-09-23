@@ -13,7 +13,7 @@ I am bipin yadav from bihar, india. and i study in BCA from s. sinha college aur
 
         
 
-## 📂 Featured Projects
+## 📂 Featured Projects 
    
  
 ![BeepCinema](https://img.shields.io/badge/🎬%20BeepCinema-Where%20you%20explore%20movies%20and%20series%20and%20do%20crazy%20stuff.%20Shuuutt%20upp-white?style=for-the-badge)
