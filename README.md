@@ -1,76 +1,74 @@
-# *Namaste,* I'm Bipin Yadav   
+# Hi, I'm Bipin Kumar 👋
 
-Welcome to my personal repository!        
-I'm passionate about coding, programming, and hacking, always learning and building exciting projects.
-       
-## 👨‍💻 About Me     
-I am bipin yadav from bihar, india. and i study in BCA from s. sinha college aurangabad, bihar. and i love to do some crazy stuff on my laptop keyboard.
-   
-![Currently Working](https://img.shields.io/badge/🔭%20Currently_Working_on-Bagebook.space-white?style=for-the-badge)  
-![Learning](https://img.shields.io/badge/🌱%20Learning-C%20|%20Web%20Dev%20|%20Cybersecurity%20|%20Android%20Dev-white?style=for-the-badge)  
-![Interested In](https://img.shields.io/badge/💡%20Interested_In-Building_Apps%20|%20OS%20|%20AI-white?style=for-the-badge)  
-![Goal](https://img.shields.io/badge/🎯%20Goal-Expert_in_Software_Dev_&_Ethical_Hacking-white?style=for-the-badge)
-   
-         
- 
-## 📂 Featured Projects 
-     
- 
-![BeepCinema](https://img.shields.io/badge/🎬%20BeepCinema-Where%20you%20explore%20movies%20and%20series%20and%20do%20crazy%20stuff.%20Shuuutt%20upp-white?style=for-the-badge)
-![YuvaUpdate](https://img.shields.io/badge/📚%20YuvaUpdate-Built%20for%20students%20to%20find%20updates%20like%20results,%20admissions,%20jobs,%20admit%20cards-white?style=for-the-badge)
-![Baula](https://img.shields.io/badge/⚽%20Baula-A%20fun%20ball%20game%20like%20Chrome%20Dinosaur%20but%20with%20physics-white?style=for-the-badge)
+I’m a BCA student and developer from Bihar, India. I enjoy turning ideas into useful web apps, experimenting with new technologies, and learning by building.
 
-## 🛠️ Tech Stack
+## What I’m working on
 
-### Languages 
-![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=00599C) 
-![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=00599C) 
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB) 
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+- Building modern web applications with TypeScript and JavaScript
+- Exploring Android development with Kotlin
+- Creating practical tools for students, creators, and everyday workflows
+- Improving my foundations in programming, software development, and cybersecurity
 
- 
+## Featured projects
 
-### Web 
-![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26) 
-![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6) 
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=339933) 
-![Express.js](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=000000) 
-![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248)
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Tip-tap](https://github.com/BipinDev404/Tip-tap) | A minimalist typing-practice web app | TypeScript |
+| [Banter](https://github.com/BipinDev404/Banter) | A short-term chat facility | TypeScript |
+| [foto](https://github.com/BipinDev404/foto) | A photo-gallery web app | TypeScript |
+| [Bage Book](https://github.com/BipinDev404/Bage_book) | A digital notebook for notes, journals, stories, and scripts | Web |
+| [Bipin's Portfolio](https://github.com/BipinDev404/Bipin-s-portfolio) | A portfolio showcasing my work | TypeScript |
+| [Baula](https://github.com/BipinDev404/Baula) | A physics-based ball game | HTML |
+| [Kharcha](https://github.com/BipinDev404/Kharcha) | An Android app for tracking money | Kotlin |
+| [BCA Chat Bot](https://github.com/BipinDev404/bca-chat-bot) | A learning assistant for BCA students | Web |
 
+## More public projects
 
+- [BeepCinema](https://github.com/BipinDev404/BeepCinema) — movie and series discovery
+- [Feelam Docs](https://github.com/BipinDev404/Feelam-docs) — documentation for a movie and series information platform
+- [Bapp](https://github.com/BipinDev404/Bapp) — web application project
+- [Yash Computer](https://github.com/BipinDev404/Yash_Computer) — educational computer-center project
+- [Bapp Redirect](https://github.com/BipinDev404/Bapp-redirect) — redirect companion project
+- [Square](https://github.com/BipinDev404/Square) — web project
+- [BYPASS-BIPIN](https://github.com/BipinDev404/BYPASS-BIPIN) — password manager and generator
+- [BOS](https://github.com/BipinDev404/bos) — web project
+- [BIPIN CMD](https://github.com/BipinDev404/BIPIN---CMD) — JavaScript command-line experiment
+- [Vikash Physics Classes](https://github.com/BipinDev404/VIKASH-PHYSICS-CLASSES) — a coaching-center website
+- [Learn JavaScript](https://github.com/BipinDev404/Learn-Javascript) — JavaScript learning exercises
+- [C Tools](https://github.com/BipinDev404/C-Tools) — C programming tools and experiments
+- [Learn C++ Language](https://github.com/BipinDev404/Learn-C--Language) — C++ learning projects
 
-### Tools  
-![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032) 
-![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=000) 
-![VS Code](https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-white?style=for-the-badge&logo=kalilinux&logoColor=557C94) 
-![Photoshop](https://img.shields.io/badge/Photoshop-white?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+I also maintain private experiments and projects that are not listed here.
 
+## Tech stack
 
-### Other 
-![Android](https://img.shields.io/badge/Android%20Dev-white?style=for-the-badge&logo=android&logoColor=3DDC84) 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-white?style=for-the-badge&logo=protonvpn&logoColor=00855F)
- 
+### Languages
 
-## 📊 GitHub Stats  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BipinDev404&show_icons=true&theme=white)  
+### Tools and platforms
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BipinDev404&layout=compact&theme=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BipinDev404&theme=white)
+## GitHub activity
 
+![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BipinDev404&show_icons=true&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BipinDev404&layout=compact&theme=transparent)
 
-## 🌐 Connect with Me  
+## Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=000)](https://github.com/BipinDev404)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/bipinyadav-real/)  
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/bipin_yadav_z)  
-[![X (Twitter)](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=x&logoColor=1DA1F2)](https://twitter.com/BipinYadav15123)  
- 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BipinDev404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipinyadav-real/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bipin_yadav_z)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/BipinYadav15123)
 
-![Quote](https://img.shields.io/badge/💡%20Quote-"Karam%20karte%20rho,%20phal%20ka%20chinta%20mat%20karo"-white?style=for-the-badge)
-
- 
+> *Karam karte raho, phal ki chinta mat karo.*
